@@ -1,0 +1,28 @@
+{
+  "name": "Envestpro Financial Advisor Qualifier",
+  "short_name": "Envestpro Qualifier",
+  "description": "Discover your uncapped earning potential as an Envestpro Financial Advisor with Liberty Life & In8 products.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D1929",
+  "theme_color": "#1B2A4A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/envestpro_favicon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/envestpro_apple_touch_icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/envestpro_favicon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
